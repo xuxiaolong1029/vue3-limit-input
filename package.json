@@ -1,0 +1,18 @@
+{
+  "name": "vue3-limit-input",
+  "version": "1.0.0",
+  "description": "可控制小数位数输入的输入框",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "directive"
+  ],
+  "author": "xxl",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.31"
+  }
+}
